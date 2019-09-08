@@ -2,6 +2,7 @@
 
 I am a Computer Science student which explains why I'm using Github as the vessel of my personal blog. In Github I am able to upload my personal software projects, code, and games.
 
+```markdown
 ## NSTP[0]: Orientation Day
 
 If I were to summarize, it would go like so:
@@ -24,3 +25,4 @@ Lastly, the videos they showed were really great, but after listening for some t
 ### Closing
 
 With all that said, I have high hopes for NSTP. I hope I get to enjoy it by meeting new friends, speakers, and learning new things. I believe NSTP will allow me to interact with people who have other paradigms of thought. I look foward to everything.
+```

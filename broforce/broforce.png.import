@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/broforce.png-64ed938d44d60b6771fb6d374643e3a6.stex"
+path="res://.import/broforce.png-91547b7ea7f49429ddf90a1e63fe59a6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/html/mobile/broforce.png"
-dest_files=[ "res://.import/broforce.png-64ed938d44d60b6771fb6d374643e3a6.stex" ]
+source_file="res://export/html/broforce.png"
+dest_files=[ "res://.import/broforce.png-91547b7ea7f49429ddf90a1e63fe59a6.stex" ]
 
 [params]
 

@@ -16,6 +16,7 @@
 
 <h2>NSTP[1]: Self and Others</h2>
 <h3><i>Michelle Yzabel Alcantara</i></h3>
+![NSTP DAY 1](/img/day1.jpg)
 <b>If I were to summarize, it would go like so:</b>
 <ol>
 <li>Introduction and Insight</li>

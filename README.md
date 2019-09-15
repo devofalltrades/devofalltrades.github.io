@@ -14,8 +14,6 @@
 </ul>
 -->
 
-----
-
 <h2>NSTP[1]: Self and Others</h2>
 <h3><i>Michelle Yzabel Alcantara</i></h3>
 <b>If I were to summarize, it would go like so:</b>
@@ -55,9 +53,7 @@ On the latter part of the speech, the speaker showed a picture of a couple in wh
 All in all I was able to learn a lot from this session. I learned more about myself and my discomforts. I also learned more about kapwa and pakikipagkapwa. I used to think that service is just about doing what you have to do and that's it. But after this session, I have realized that serving has a purpose. Serving has a goal. Serving doesn't mean to grind and to go home. Serving means understanding who I'm serving and keeping that in mind in order to genuinely serve the people with my capabilities.
 </p>
 
-<b>
-<p>I am aiming to become a software developer, security engineer, full-stack web developer, and Chief Executive Officer of my own company in the future. With this session I am reminded that there is a purpose to what I'll be doing in the future no matter how big or small.</p>
-</b>
+<p><b>I am aiming to become a software developer, security engineer, full-stack web developer, and Chief Executive Officer of my own company in the future. With this session I am reminded that there is a purpose to what I'll be doing in the future no matter how big or small.</b></p>
 
 
 <!--

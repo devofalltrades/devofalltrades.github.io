@@ -16,7 +16,7 @@
 
 ----
 
-<h3>NSTP[1]: Self and Others</h3>
+<h2>NSTP[1]: Self and Others</h2>
 <h3><i>Michelle Yzabel Alcantara</i></h3>
 <b>If I were to summarize, it would go like so:</b>
 <ol>
@@ -34,17 +34,30 @@ The topic was very interesting because it lead us to introspection. The power wa
 
 <h3>We must first know ourselves before we can serve</h3>
 <p>
-The speaker began with a term: kapwa. For us Filipinos, the term itself is very intuitive because it has always been with us ever since we gained our own consciousness. When the speaker asked what kapwa is, I immediately thought to myself: that's easy, it's just another person or someone else.
+I imagined myself in a context of giving service. With this, I was able to determine that I would definitely be placed in situations that I abhor or situations that I will definitely be uncomfortable in. But with the speaker, I was able to learn that I can turn uncomfortable situations into something more bearable by understanding myself more and finding the boundaries of my comforts and discomforts. This way, I will be able to manage situations better, because I would be prepared on how to react during certain situations. It is true that communication is needed in order to give service. I have learned that if I don't know my own situation, I won't be able to give service.
 </p>
 
+<h3>Understanding others is needed in giving service</h3>
 <p>
-However, placed in the context of service, kapwa doesn't just mean another person because the word itself is tied to its partner: pakikipagkapwa. The word "pakikipagkapwa" is binded to the word kapwa itself. But if you think of it, using "another person" as the definition of kapwa doesn't make sense with pakikipagkapwa. Why? Well that's because in order to be able to engage in "pakikipagkapwa" I must know the other person to a certain extent. This will allow me to gauge the middle ground between our differences. This will also help me in grasping the situation of the other person. As you can see kapwa can't just be "another person" because we have to communicate and genuinely know/relate the other person in order to be able to engage in pakikipagkapwa. This concept of pakikipagkapwa is deeply rooted in giving service because I cannot genuinely give service without knowing who the people I'm serving are.
+The speaker began with a term: kapwa. For us Filipinos, the term itself is very intuitive because it has always been with us ever since we gained our own consciousness. When the speaker asked what kapwa is, I immediately thought to myself: that's easy, it's just another person or someone else. However, placed in the context of service, kapwa doesn't just mean another person because the word itself is tied to its partner: pakikipagkapwa. The word "pakikipagkapwa" is binded to the word kapwa itself. But if you think of it, using "another person" as the definition of kapwa doesn't make sense with pakikipagkapwa.
 </p>
 
-<h3>We must first know ourselves before we can serve</h3>
-<p>
-The speaker began with a term: kapwa. For us Filipinos, the term itself is very intuitive because it has always been with us ever since we gained our own consciousness. When the speaker asked what kapwa is, I immediately thought to myself: that's easy, it's just another person or someone else.
+<p>Why? Well that's because in order to be able to engage in "pakikipagkapwa" I must know the other person to a certain extent. This will allow me to gauge the middle ground between our differences. This will also help me in grasping the situation of the other person. As you can see kapwa can't just be "another person" because we have to communicate and genuinely know/relate the other person in order to be able to engage in pakikipagkapwa. I have learned that this concept of pakikipagkapwa is deeply rooted in giving service because it will allow me to understand the people I'm serving, hence constantly reminding me of the purpose of why I am serving.
 </p>
+
+<h3>We are all different</h3>
+<p>
+On the latter part of the speech, the speaker showed a picture of a couple in which people are usually quick to judge: a Filipino(?) and a foreigner. The speaker said, that a lot of people think that a couple such as them is only binded with their needs where one needs financial support and the other needs intimacy. However, the speaker also said that on one said that the couple can't be genuinely in love. This reminded me that we are all indeed different people. There is one size fits all in the understanding and serving people. I learned that serving isn't about trying to one, rather it is about doing your best to find the common ground despite the differences in order to be able to serve.
+</p>
+
+<h3>Closing</h3>
+<p>
+All in all I was able to learn a lot from this session. I learned more about myself and my discomforts. I also learned more about kapwa and pakikipagkapwa. I used to think that service is just about doing what you have to do and that's it. But after this session, I have realized that serving has a purpose. Serving has a goal. Serving doesn't mean to grind and to go home. Serving means understanding who I'm serving and keeping that in mind in order to genuinely serve the people with my capabilities.
+</p>
+
+<b>
+<p>I am aiming to become a software developer, security engineer, full-stack web developer, and Chief Executive Officer of my own company in the future. With this session I am reminded that there is a purpose to what I'll be doing in the future no matter how big or small.</p>
+</b>
 
 
 <!--

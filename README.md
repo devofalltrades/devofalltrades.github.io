@@ -14,6 +14,33 @@
 </ul>
 -->
 
+<h2>NSTP[2]: Human Rights for All</h2>
+<h3><i>Ivank Custodio</i></h3>
+![NSTP DAY 2](/img/day2.jpg)
+<b>If I were to summarize, it would go like so:</b>
+<ol>
+<li>Introduction and Insight</li>
+<li>Special Rights?</li>
+<li>Closing</li>
+</ol>
+
+<h3>Introduction and Insight</h3>
+<p>
+Let me kick this off by saying that the presentation/talk that was delivered by the speaker is helpful in informing us about our rights. However the delivery and the way the topics were presented were very dull and plain which made it harder for me to learn and to listen. That aside, among all of the topics she discussed, I was particularly interested with the frequently asked questions (FAQs).
+</p>
+
+<h3>Special Rights?</h3>
+<p>
+As I have mentioned in my introduction and insights, I was rather hooked on the frequently asked questions segment because the questions were very timely with our current generation. But amongst all the questions, the one that truly left an impression goes like this: are there special rights? There are a lot of situations where this questions could be raised but one of the most recent ones is the: Black Lives Matter campaign. The Black Lives Matter movement aim to remind people that there's nothing wrong with being African-American. It is also a reminder that, regardless of their skin they matter just as much as every single human being here on Earth. However, due to this movement a propaganda that aims to subvert the Black Lives Matter movement has started. Countless people start to argue that, every single person's life matters so why are they giving special rights to Black Lives? Well, it was answered during the speaker's discussion. It is clear that there is no such thing as special rights. Rather, the marginalized groups are given aid and protection in order to give them the opportunity to exercise their rights. Because as marginalized groups, they are deprived of some of their fundamental rights such as living a safe life.
+</p>
+ 
+<h3>Closing</h3>
+All in all, the reflection today is pretty short because I was really having a hard time retaining the information during the talk because the way it was delivered was very dull and plain.
+<p>
+</p>
+
+----
+
 <h2>NSTP[1]: Self and Others</h2>
 <h3><i>Michelle Yzabel Alcantara</i></h3>
 ![NSTP DAY 1](/img/day1.jpg)

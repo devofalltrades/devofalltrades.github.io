@@ -14,6 +14,27 @@
 </ul>
 -->
 
+<h2>NSTP[3]: Kababae/Kalalake Kong Tao</h2>
+<h3><i>Ivank Custodio</i></h3>
+![NSTP DAY 3](/img/day3.jpg)
+<b>If I were to summarize, it would go like so:</b>
+<ol>
+<li>Introduction and Insight</li>
+<li>What I truly learned from this talk</li>
+</ol>
+
+<h3>Introduction and Insight</h3>
+Imagine having to listen to different laws and human rights last week only to be surprised with the same speaker wearing different clothes and representing a marginalized group of society. Let me tell you, it was quite a shocker. I was shocked, but it wasn't bad. I believe that if there's something that surprise taught me, it's the limitless truth of a human being. You don't have to be limited by society or by social constructs. Who you want to be will become a reality with enough effort, regardless of social constructs.
+<p>
+</p>
+
+<h3>What I truly learned from this talk</h3>
+<p>
+The ultimate lesson in this speech is the existence of our differences. We all have fine tuned differences that may not conform to what people believe in, but are still valid and existing differences. If I were to eloquently describe it with visualization it would be that we are all blank porcelain pots in the beginning, but as we progress through life we make sense of the world differently. It doesn't mean that just because we are porcelains, means that we only want to be the basic porcelain. We can experience changes along the way such as cracks, color, shine, and other factors that make our identity as a porclein unique. Hence, there is no such thing as the same person. I believe we are all different within.
+</p>
+
+----
+
 <h2>NSTP[2]: Human Rights for All</h2>
 <h3><i>Ivank Custodio</i></h3>
 ![NSTP DAY 2](/img/day2.jpg)
@@ -35,8 +56,8 @@ As I have mentioned in my introduction and insights, I was rather hooked on the 
 </p>
  
 <h3>Closing</h3>
-All in all, the reflection today is pretty short because I was really having a hard time retaining the information during the talk because the way it was delivered was very dull and plain.
 <p>
+All in all, the reflection today is pretty short because I was really having a hard time retaining the information during the talk because the way it was delivered was very dull and plain.
 </p>
 
 ----

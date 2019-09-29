@@ -15,7 +15,7 @@
 -->
 
 <h2>NSTP[3]: Kababae/Kalalake Kong Tao</h2>
-<h3><i>Ivank Custodio</i></h3>
+<h3><i>Ivanka Custodio</i></h3>
 ![NSTP DAY 3](/img/day3.jpg)
 <b>If I were to summarize, it would go like so:</b>
 <ol>
@@ -36,7 +36,7 @@ The ultimate lesson in this speech is the existence of our differences. We all h
 ----
 
 <h2>NSTP[2]: Human Rights for All</h2>
-<h3><i>Ivank Custodio</i></h3>
+<h3><i>Ivanka Custodio</i></h3>
 ![NSTP DAY 2](/img/day2.jpg)
 <b>If I were to summarize, it would go like so:</b>
 <ol>

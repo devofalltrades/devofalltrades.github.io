@@ -1,0 +1,29 @@
+"use strict"
+
+var current_color
+
+window.onload = function () {
+	current_color = getCurrentColor();
+	setCurrentColor("green")
+}
+
+function getCurrentColor() {
+	let color_nodelist = document.getElementsByClassName("color-current");
+	return color_nodelist[0].getAttribute("id");
+}
+
+function setCurrentColor(color) {
+	let color_element = document.getElementById(current_color);
+	let new_color_element = document.getElementById(color);
+	let new_classname = removeStringFromArray("color-current", color_element.getAttribute("class").split(" ")).join(" ");
+	color_element.setAttribute("class", new_classname);
+}
+
+function removeStringFromArray(word, list) {
+	let filtered = list.filter((value, index, arr) => {
+		if (value !== word) {
+			return value;
+		}
+	})
+	return filtered;
+}

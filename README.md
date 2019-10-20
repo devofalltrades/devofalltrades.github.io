@@ -15,7 +15,7 @@
 -->
 
 <h2>NSTP[4]: DRRM</h2>
-![NSTP DAY 3](/img/day4.jpg)
+![NSTP DAY 4](/img/day4.jpg)
 <b>If I were to summarize, it would go like so:</b>
 <ol>
 <li>Thinking Before Helping</li>

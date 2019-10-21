@@ -14,19 +14,19 @@
 </ul>
 -->
 
-<!-- <h2>NSTP[4]: DRRM</h2> -->
-<!-- ![NSTP DAY 4](/img/day4.jpg) -->
-<!-- <b>If I were to summarize, it would go like so:</b> -->
-<!-- <ol> -->
-<!-- <li>Thinking Before Helping</li> -->
-<!-- </ol> -->
-<!--  -->
-<!-- <h3>Thinking Before Helping</h3> -->
-<!-- <p> -->
-<!-- The most memorable part of the talk was when the speaker told a story on why you shouldn't donate milk in case of disaster. He said that while the milk may be sterile, the water that the people will be using in liquifying the milk is actually contaminated due to the disaster's after effects. In this regard, this really struck me because I've always though of donating milk until the speaker mentioned this. And with that, I believe it is vital to think before we help and to make sure that we are really informed on how we can really help the people in need in times of disaster. -->
-<!-- </p> -->
-<!--  -->
-<!-- ---- -->
+<h2>NSTP[4]: DRRM</h2>
+![NSTP DAY 4](/img/day4.jpg)
+<b>If I were to summarize, it would go like so:</b>
+<ol>
+<li>Thinking Before Helping</li>
+</ol>
+
+<h3>Thinking Before Helping</h3>
+<p>
+The most memorable part of the talk was when the speaker told a story on why you shouldn't donate milk in case of disaster. He said that while the milk may be sterile, the water that the people will be using in liquifying the milk is actually contaminated due to the disaster's after effects. In this regard, this really struck me because I've always though of donating milk until the speaker mentioned this. And with that, I believe it is vital to think before we help and to make sure that we are really informed on how we can really help the people in need in times of disaster.
+</p>
+
+----
 
 <h2>NSTP[3]: Kababae/Kalalake Kong Tao</h2>
 <h3><i>Ivanka Custodio</i></h3>

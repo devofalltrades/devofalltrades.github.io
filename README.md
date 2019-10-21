@@ -28,23 +28,6 @@ The most memorable part of the talk was when the speaker told a story on why you
 
 ----
 
-
-<h2>NSTP[3]: Kababae/Kalalake Kong Tao</h2>
-<h3><i>Ivanka Custodio</i></h3>
-![NSTP DAY 3](/img/day3.jpg)
-<b>If I were to summarize, it would go like so:</b>
-<ol>
-<li>Introduction and Insight</li>
-<li>What I truly learned from this talk</li>
-</ol>
-
-<h3>What I truly learned from this talk</h3>
-<p>
-The ultimate lesson in this speech is the existence of our differences. We all have fine tuned differences that may not conform to what people believe in, but are still valid and existing differences. If I were to eloquently describe it with visualization it would be that we are all blank porcelain pots in the beginning, but as we progress through life we make sense of the world differently. It doesn't mean that just because we are porcelains, means that we only want to be the basic porcelain. We can experience changes along the way such as cracks, color, shine, and other factors that make our identity as a porclein unique. Hence, there is no such thing as the same person. I believe we are all different within.
-</p>
-
-----
-
 <h2>NSTP[3]: Kababae/Kalalake Kong Tao</h2>
 <h3><i>Ivanka Custodio</i></h3>
 ![NSTP DAY 3](/img/day3.jpg)
